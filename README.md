@@ -1,2 +1,2 @@
 # sas_board
-Software for the SAS hardware
+Developped for the EPFL Rocket Team; software for the Sensor Acquisition System hardware
